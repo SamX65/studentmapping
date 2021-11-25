@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Student from './components/Student';
-
+import Aryobj from './components/Testing';
 function App() {
   return (
     <div className="App">
-    </div>
+      <Aryobj />
+      </div>
   );
 }
 
